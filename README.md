@@ -8,4 +8,4 @@ A javascript function that clones content while scrolling to create an infinite/
 
 Requires jQuery.
 
-**Note: this has been modified from a project to work 'out of the box' but hasn't been tested.
+**Note: this has been modified from a project to work 'out of the box' but hasn't been tested.**
